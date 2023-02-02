@@ -1626,3 +1626,396 @@ Traceback (most recent call last):
   File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
     elif len(markup) <= 256 and (
 TypeError: object of type 'NoneType' has no len()
+INFO 2023-02-01 23:04:48,516  titanscaper - Starting TitanScraper v0.0.21
+ERROR 2023-02-01 23:10:53,702  titanscaper - Timeout error
+ERROR 2023-02-01 23:10:53,705  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-01 23:12:26,722  titanscaper - Timeout error
+ERROR 2023-02-01 23:12:26,726  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-01 23:15:24,678  titanscaper - Timeout error
+ERROR 2023-02-01 23:15:24,681  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-01 23:15:54,721  titanscaper - Timeout error
+ERROR 2023-02-01 23:15:54,724  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-01 23:16:24,751  titanscaper - Timeout error
+ERROR 2023-02-01 23:16:24,754  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-01 23:16:54,986  titanscaper - Timeout error
+ERROR 2023-02-01 23:16:54,988  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-01 23:17:25,018  titanscaper - Timeout error
+ERROR 2023-02-01 23:17:25,020  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-01 23:17:55,047  titanscaper - Timeout error
+ERROR 2023-02-01 23:17:55,048  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-01 23:18:25,091  titanscaper - Timeout error
+ERROR 2023-02-01 23:18:25,094  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-01 23:18:55,124  titanscaper - Timeout error
+ERROR 2023-02-01 23:18:55,129  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-01 23:19:25,163  titanscaper - Timeout error
+ERROR 2023-02-01 23:19:25,166  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-01 23:20:08,481  titanscaper - Timeout error
+ERROR 2023-02-01 23:20:08,483  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-01 23:20:38,505  titanscaper - Timeout error
+ERROR 2023-02-01 23:20:38,508  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-01 23:21:08,566  titanscaper - Timeout error
+ERROR 2023-02-01 23:21:08,572  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-01 23:21:38,617  titanscaper - Timeout error
+ERROR 2023-02-01 23:21:38,620  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-01 23:22:08,829  titanscaper - Timeout error
+ERROR 2023-02-01 23:22:08,832  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-01 23:22:38,868  titanscaper - Timeout error
+ERROR 2023-02-01 23:22:38,871  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-01 23:23:08,918  titanscaper - Timeout error
+ERROR 2023-02-01 23:23:08,923  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-01 23:23:38,971  titanscaper - Timeout error
+ERROR 2023-02-01 23:23:38,975  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-01 23:25:33,041  titanscaper - Timeout error
+ERROR 2023-02-01 23:25:33,044  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-01 23:26:26,891  titanscaper - Timeout error
+ERROR 2023-02-01 23:26:26,893  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-01 23:26:58,020  titanscaper - Timeout error
+ERROR 2023-02-01 23:26:58,021  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-01 23:27:17,931  titanscaper - Timeout error
+ERROR 2023-02-01 23:27:17,935  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-01 23:27:47,973  titanscaper - Timeout error
+ERROR 2023-02-01 23:27:47,974  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-01 23:28:12,426  titanscaper - Timeout error
+ERROR 2023-02-01 23:28:12,428  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-01 23:28:42,471  titanscaper - Timeout error
+ERROR 2023-02-01 23:28:42,474  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-01 23:29:12,503  titanscaper - Timeout error
+ERROR 2023-02-01 23:29:12,505  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-01 23:29:42,543  titanscaper - Timeout error
+ERROR 2023-02-01 23:29:42,545  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-01 23:30:49,263  titanscaper - Timeout error
+ERROR 2023-02-01 23:30:49,266  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-01 23:31:23,269  titanscaper - Timeout error
+ERROR 2023-02-01 23:31:23,271  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-01 23:32:05,520  titanscaper - Timeout error
+ERROR 2023-02-01 23:32:05,523  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-01 23:39:55,535  titanscaper - Timeout error
+ERROR 2023-02-01 23:39:55,540  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-02 00:10:17,805  titanscaper - Timeout error
+ERROR 2023-02-02 00:10:17,810  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-02 00:15:10,655  titanscaper - Timeout error
+ERROR 2023-02-02 00:15:10,659  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-02 00:15:32,988  titanscaper - Timeout error
+ERROR 2023-02-02 00:15:32,991  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-02 00:17:29,642  titanscaper - Timeout error
+ERROR 2023-02-02 00:17:29,646  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-02 01:26:34,483  titanscaper - Timeout error
+ERROR 2023-02-02 01:26:34,531  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-02 02:56:16,635  titanscaper - Timeout error
+ERROR 2023-02-02 02:56:16,689  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+ERROR 2023-02-02 02:57:05,697  titanscaper - Timeout error
+ERROR 2023-02-02 02:57:05,709  titanscaper - object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 216, in scrap
+    data = self.__parse_data(raw_html, rules)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\titanscraper\titanscraper.py", line 141, in __parse_data
+    soup = BeautifulSoup(html_doc, self.DOCUMENT_PARSER)
+  File "c:\workspace\mlpc\lang_translation\data_colecting\venv\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+INFO 2023-02-02 03:04:57,949  titanscaper - Starting TitanScraper v0.0.21
+INFO 2023-02-02 03:07:09,631  titanscaper - Starting TitanScraper v0.0.21
