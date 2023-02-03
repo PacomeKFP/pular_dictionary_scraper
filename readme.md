@@ -1,3 +1,7 @@
-This script helps to scrap the Pular - french dictionary hosted online, 
-it uses the open source package names TitanScraper for the scraping,
- the package has been modifiated for this project, then you have to use the version stored in the folder ./titanscraper
+DATA_COLLECING
+==============
+
+Vous devez juste changer la valuer de la variable `lang`
+un fichier lange.json dans le dossier utils vous indique le bon numero pour quelques angues
+
+ouvrez ce lien [https://www.bible.com/json/bible/languages] et relevez les noms des langues que vous conaissez, j'ajouterai leurs nombres respectifs
