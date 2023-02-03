@@ -1,6 +1,0 @@
-Last saves
-language:3307
-Current book:GEN --> Not Completed
-Chapter:GEN.1
-Done books:[]
-Chapters done in the last/current book: ['GEN.1']
