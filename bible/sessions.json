@@ -1,9 +1,1 @@
-{
-    "63": {
-        "last_book": "EXO",
-        "last_chapter": "EXO.37",
-        "completed_books": [
-            "GEN"
-        ]
-    }
-}
+{"63": {"last_book": "JOS", "last_chapter": "JOS.1", "completed_books": ["GEN", "EXO", "LEV", "NUM", "DEU"]}, "906": {"last_book": "GEN", "last_chapter": "GEN.2", "completed_books": []}}
