@@ -1,1 +1,26 @@
-{"63": {"last_book": "JOS", "last_chapter": "JOS.1", "completed_books": ["GEN", "EXO", "LEV", "NUM", "DEU"]}, "906": {"last_book": "GEN", "last_chapter": "GEN.2", "completed_books": []}}
+{
+    "63": {
+        "last_book": "2CH",
+        "last_chapter": "2CH.11",
+        "completed_books": [
+            "GEN",
+            "EXO",
+            "LEV",
+            "NUM",
+            "DEU",
+            "JOS",
+            "JDG",
+            "RUT",
+            "1SA",
+            "2SA",
+            "1KI",
+            "2KI",
+            "1CH"
+        ]
+    },
+    "906": {
+        "last_book": "GEN",
+        "last_chapter": "GEN.2",
+        "completed_books": []
+    }
+}
