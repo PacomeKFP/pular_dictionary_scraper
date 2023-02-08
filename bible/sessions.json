@@ -1,7 +1,7 @@
 {
     "63": {
-        "last_book": "2CH",
-        "last_chapter": "2CH.11",
+        "last_book": "2MA",
+        "last_chapter": "2MA.13",
         "completed_books": [
             "GEN",
             "EXO",
@@ -15,7 +15,15 @@
             "2SA",
             "1KI",
             "2KI",
-            "1CH"
+            "1CH",
+            "2CH",
+            "EZR",
+            "NEH",
+            "TOB",
+            "JDT",
+            "EST",
+            "ESG",
+            "1MA"
         ]
     },
     "906": {
